@@ -19,4 +19,4 @@
 
 ## Divers
 - minimum 7 heures de sommeil par nuit
-- ne mettre des lunettes avec filtre de lumière que l'après midi
+- ne mettre des lunettes avec filtre de lumière bleu que l'après midi
