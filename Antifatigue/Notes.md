@@ -20,3 +20,11 @@
 ## Divers
 - minimum 7 heures de sommeil par nuit
 - ne mettre des lunettes avec filtre de lumière bleu que l'après midi
+- lumière le soir => coucher tardif // lumière le matin => lever précoce
+- les pieds chauds favorisent le sommeil #chaussettes
+- se coucher à heure fixe et avant minuit
+
+## Quelque faits
+- dormir plus de 9h par nuit tous les jours est néfaste
+- 24h de veille (nuit blanche) est équivalent à 1 gramme d'alcool dans le sang
+- plus on reste longtemps éveillé, plus on va dormir longtemps et profondement.
