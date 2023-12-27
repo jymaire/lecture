@@ -1,0 +1,8 @@
+- P30 : Toute énergie devient sale si tu l'utilises à grande échelle.
+- P42 : Le gaz, le nucléaire et les énergies renouvelables n'ont remplacé aucune énergie. Ils s'ajoutent aux autres (charbon, pétrole)
+- P60 : Il y a deux siècles, les deux tiers de la population travaillaient dans les champs.
+- P62 : Dans le tertiaire, les emplois sont conditionnés par le nombre d'objets produits.
+- P72 : Des moyens de transport qui vont plus vite ne réduisant pas nos temps de déplacements. C'est juste qu'on va plus loin.
+- P72 : Un aller/retour Paris/New York, c'est environ 300 ou 400 litres de pétrole. C'est à peu près la consommation annuelle d'une personne utilisant sa voiture tous les jours.
+- P74 : Plus il y a de gens en ville, plus la quantité d'énergie utilisée par personne augmente et plus les émissions de CO2 sont élevées.
+- P81 : 40% de l'électricité mondiale provient du charbon (donc utiliser internet c'est utiliser du charbon)
